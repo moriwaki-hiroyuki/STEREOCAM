@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StereoCameraDemoApp", "StereoCameraDemoApp\StereoCameraDemoApp.csproj", "{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}.Debug|x64.ActiveCfg = Debug|x64
+		{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}.Debug|x64.Build.0 = Debug|x64
+		{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}.Release|x64.ActiveCfg = Release|x64
+		{EDF7C21C-1DB6-4083-BFE2-A52613F143E6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8CB445-5761-4C4D-8C08-55CDD3EBFC7A}
+	EndGlobalSection
+EndGlobal
